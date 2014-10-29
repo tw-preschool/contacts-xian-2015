@@ -43,3 +43,16 @@ Name | GitHub Link
 田玛莉 | https://github.com/marryblossom
 刘才臻 | https://github.com/zhen639
 李玉静 | https://github.com/Leenye
+
+## 邱俊涛 & 边蕤 教练组
+
+Name | GitHub Link
+--------- | -----------
+原玥 | https://github.com/yuandayue
+赵梦茹 | https://github.com/zhaomengru2015
+徐倩楠 | https://github.com/NarshaXU
+张翔 | https://github.com/melonq
+闻琇 | https://github.com/Wing19
+张琳 | https://github.com/zhanglin00129
+
+
