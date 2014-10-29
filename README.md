@@ -5,8 +5,7 @@
 请按照以下格式在学员信息表格中登记学员的GitHub信息（举例）：
 
 ```markdown
-Hao Hu | https://github.com/howiehu
-Cui Jiao | https://github.com/cuijiao
+张三 | https://github.com/zhang3
 ```
 
 ## [胡皓](https://github.com/howiehu) & [崔娇](https://github.com/cuijiao) 教练组
