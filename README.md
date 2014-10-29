@@ -33,3 +33,14 @@ Name | GitHub Link
 屈鉴铭 | https://github.com/SanCoder-Q
 牛菀露 | https://github.com/niuwanlu
 贺瑛 | https://github.com/hjade
+
+## 王妮 & 李俊 教练组
+
+Name | GitHub Link
+--------- | -----------
+黄睿薇 | https://github.com/vivihuang
+陈洋 | https://github.com/young-chen
+沈建 | https://github.com/sj15291864789
+田玛莉 | http://github.com/marryblossom
+刘才臻 | http://github.com/zhen639
+李玉静 | http://github.com/Leenye
