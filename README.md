@@ -26,9 +26,9 @@ Name | GitHub Link
 尹潇龙 | https://github.com/y7624474
 刘莹 | https://github.com/liuy825
 王心怡 | https://github.com/popok
-徐昊 | https://github.com/https://github.com/fanfal
-徐晓娟 | https://github.com/https://github.com/lemon123456
-张旭 | https://github.com/https://github.com/raingxm
+徐昊 | https://github.com/fanfal
+徐晓娟 | https://github.com/lemon123456
+张旭 | https://github.com/raingxm
 屈鉴铭 | https://github.com/SanCoder-Q
 牛菀露 | https://github.com/niuwanlu
 贺瑛 | https://github.com/hjade
