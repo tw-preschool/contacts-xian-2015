@@ -41,6 +41,6 @@ Name | GitHub Link
 黄睿薇 | https://github.com/vivihuang
 陈洋 | https://github.com/young-chen
 沈建 | https://github.com/sj15291864789
-田玛莉 | http://github.com/marryblossom
-刘才臻 | http://github.com/zhen639
-李玉静 | http://github.com/Leenye
+田玛莉 | https://github.com/marryblossom
+刘才臻 | https://github.com/zhen639
+李玉静 | https://github.com/Leenye
