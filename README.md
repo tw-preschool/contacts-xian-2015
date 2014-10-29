@@ -16,7 +16,7 @@ Name | GitHub Link
 张晓飞 | https://github.com/kkkkkxiaofei
 朱江 | https://github.com/zlienqwe
 王大军 | https://github.com/wdj19931993
-张媛媛 | http://github.com/jiuyuegui
+张媛媛 | https://github.com/jiuyuegui
 张建礼 | https://github.com/dewmaple
 
 ## 杨萌蒙 & [张静强](https://github.com/micusic) & 白明明 教练组
