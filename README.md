@@ -18,3 +18,11 @@ zlienqwe | 朱江 | https://github.com/zlienqwe
 wdj19931993 | 王大军 | https://github.com/wdj19931993
 jiuyuegui | 张媛媛 | http://github.com/jiuyuegui
 N/A | 张建礼 | N/A
+
+## 杨萌蒙 & [张静强](https://github.com/micusic) & 白明明 教练组
+
+Username | Full Name | GitHub Link
+-------- | --------- | -----------
+fanfal | 徐昊 | https://github.com/fanfal
+lemon123456 | 徐晓娟 | https://github.com/lemon123456
+raingxm | 张旭 | https://github.com/raingxm
