@@ -32,6 +32,7 @@ Name | GitHub Link
 屈鉴铭 | https://github.com/SanCoder-Q
 牛菀露 | https://github.com/niuwanlu
 贺瑛 | https://github.com/hjade
+刘琳 | ?
 
 ## 王妮 & 李俊 教练组
 
