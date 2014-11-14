@@ -8,7 +8,7 @@
 张三 | https://github.com/zhang3
 ```
 
-## [胡皓](https://github.com/howiehu) & [崔娇](https://github.com/cuijiao) 教练组
+## [胡皓](https://github.com/howiehu) & [崔娇](https://github.com/cuijiao) 教练组 Team A
 
 Name | GitHub Link
 --------- | -----------
@@ -19,7 +19,18 @@ Name | GitHub Link
 张媛媛 | https://github.com/jiuyuegui
 张建礼 | https://github.com/dewmaple
 
-## 杨萌蒙 & [张静强](https://github.com/micusic) & 白明明 教练组
+## 王妮 & 李俊 教练组 Team B
+
+Name | GitHub Link
+--------- | -----------
+黄睿薇 | https://github.com/vivihuang
+陈洋 | https://github.com/young-chen
+沈建 | https://github.com/sj15291864789
+田玛莉 | https://github.com/marryblossom
+刘才臻 | https://github.com/zhen639
+李玉静 | https://github.com/Leenye
+
+## 杨萌蒙 & [张静强](https://github.com/micusic) & 白明明 教练组 Team C
 
 Name | GitHub Link
 --------- | -----------
@@ -34,18 +45,7 @@ Name | GitHub Link
 贺瑛 | https://github.com/hjade
 刘琳 | ?
 
-## 王妮 & 李俊 教练组
-
-Name | GitHub Link
---------- | -----------
-黄睿薇 | https://github.com/vivihuang
-陈洋 | https://github.com/young-chen
-沈建 | https://github.com/sj15291864789
-田玛莉 | https://github.com/marryblossom
-刘才臻 | https://github.com/zhen639
-李玉静 | https://github.com/Leenye
-
-## 邱俊涛 & 边蕤 教练组
+## 邱俊涛 & 边蕤 教练组 Team D
 
 Name | GitHub Link
 --------- | -----------
