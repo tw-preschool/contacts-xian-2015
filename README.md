@@ -8,7 +8,7 @@
 张三 | https://github.com/zhang3
 ```
 
-## [胡皓](https://github.com/howiehu) & [崔娇](https://github.com/cuijiao) 教练组 Team A
+## 魏兆玉 & [胡皓](https://github.com/howiehu) & [崔娇](https://github.com/cuijiao) 教练组 Team A
 
 Name | GitHub Link
 --------- | -----------
