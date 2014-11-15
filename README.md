@@ -13,7 +13,6 @@
 Name | GitHub Link
 --------- | -----------
 严嘉阳 | https://github.com/raymondyan
-张晓飞 | https://github.com/kkkkkxiaofei
 朱江 | https://github.com/zlienqwe
 王大军 | https://github.com/wdj19931993
 张媛媛 | https://github.com/jiuyuegui
