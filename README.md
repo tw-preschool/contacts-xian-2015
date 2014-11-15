@@ -18,6 +18,7 @@ Name | GitHub Link
 王大军 | https://github.com/wdj19931993
 张媛媛 | https://github.com/jiuyuegui
 张建礼 | https://github.com/dewmaple
+刘琳   | https://github.com/liulin1987315
 
 ## 王妮 & 李俊 教练组 Team B
 
@@ -43,7 +44,8 @@ Name | GitHub Link
 屈鉴铭 | https://github.com/SanCoder-Q
 牛菀露 | https://github.com/niuwanlu
 贺瑛 | https://github.com/hjade
-刘琳 | ?
+张晓飞 | https://github.com/kkkkkxiaofei
+
 
 ## 邱俊涛 & 边蕤 教练组 Team D
 
